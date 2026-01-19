@@ -4,8 +4,8 @@
 
 - 150g unsalted butter
 - 30g cold water
-- 70g sugar
-- 70g dark brown sugar
+- 90g sugar
+- 90g dark brown sugar
 - 1 large egg, fridge cold
 - 15ml vanilla extract
 - 5g baking powder
