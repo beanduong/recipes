@@ -6,18 +6,20 @@
 - 30g cold water
 - 55g sugar
 - 125g dark brown sugar
-- 1 large egg, fridge cold
 - 5g vanilla syrup
-- 5g baking powder
 - 3g kosher salt
-- 175g high gluten flour
+- 1 large egg, fridge cold
+- 5g baking powder
+- 175g flour
 
 ## Add-ins
-- 150g semi-sweet chocolate chips
+- 200g semi-sweet chocolate chips
 
-### Double Choc
-- 100g bittersweet chocolate
-- 25g cocoa powder
+### White Chocolate Dark Cookie
+- 200g white chocolate
+- 40g cocoa powder
+- subtract 40g flour
+- add 10g coldwater
 
 ### Cranberry White Choc
 - 50g cranberries
